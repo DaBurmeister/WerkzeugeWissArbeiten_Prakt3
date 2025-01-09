@@ -1,7 +1,7 @@
 # LaTeX-Unterlagen
 ---
 
-"In diesem Repository befinden sich die LaTeX-Unterlagen zum Modul."
+> "In diesem Repository befinden sich die LaTeX-Unterlagen zum Modul."
 
 # Inhalt
 ---
